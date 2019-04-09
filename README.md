@@ -1,2 +1,4 @@
-# WaterQualityVessel
-Website made made up of vanilla js
+# water-quality-vessel
+### project website 
+
+Vanilla JavaScript with Google Maps API integration, CSV / JSON input and output, and data visualization.
